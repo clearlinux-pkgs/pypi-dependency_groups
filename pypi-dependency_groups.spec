@@ -7,7 +7,7 @@
 #
 Name     : pypi-dependency_groups
 Version  : 1.3.0
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/b4/57/cd53c3e335eafbb0894449af078e2b71db47e9939ce2b45013e5a9fe89b7/dependency_groups-1.3.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/b4/57/cd53c3e335eafbb0894449af078e2b71db47e9939ce2b45013e5a9fe89b7/dependency_groups-1.3.0.tar.gz
 Summary  : A tool for resolving PEP 735 Dependency Group data
