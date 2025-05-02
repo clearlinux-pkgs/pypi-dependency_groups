@@ -1,5 +1,5 @@
 PKG_NAME := pypi-dependency_groups
-URL = https://files.pythonhosted.org/packages/b4/57/cd53c3e335eafbb0894449af078e2b71db47e9939ce2b45013e5a9fe89b7/dependency_groups-1.3.0.tar.gz
+URL = https://files.pythonhosted.org/packages/62/55/f054de99871e7beb81935dea8a10b90cd5ce42122b1c3081d5282fdb3621/dependency_groups-1.3.1.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
